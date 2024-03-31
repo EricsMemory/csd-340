@@ -1,0 +1,27 @@
+#container{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1, h2, h3, h4{
+    background-color: #403d39;
+    color:#eb5e28;
+    border: 1px solid #D6A800;
+    padding: 10px;
+    
+}
+
+a{
+    
+    color: #403d39;
+}
+
+a:hover{
+    color:#eb5e28;
+}
+
+a:visited{
+    color: #4a0dbb;
+}
